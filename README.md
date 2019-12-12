@@ -1,12 +1,12 @@
 # Write a REST API
 In this assignment we will be writing a simple REST API. Both GET and POST methods will be used
 
-#Steps
+## Steps
 1. Clone the Repo
 2. Complete the assigned coding tasks. Commit OFTEN!
 3. Push to your repo
 
-# Assignment
+## Assignment
 For this assignment you will be writing a simple REST API. You will need 3 API routes (URI's) 2 GET routes and 1 POST route. All the routes will return JSON formated data.
 
 Using the express framework you will need the following routes:
