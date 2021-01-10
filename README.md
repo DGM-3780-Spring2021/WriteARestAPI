@@ -1,4 +1,4 @@
-# Write a REST API
+# TypeScript - Write a REST API
 In this assignment we will be writing a simple REST API. Both GET and POST methods will be used
 
 ## Steps
